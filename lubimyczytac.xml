@@ -1,0 +1,451 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no" ?>
+<bookshelf>
+    <book>
+        <title>Rok 1984</title>
+        <link>https://lubimyczytac.pl/ksiazka/4999480/rok-1984</link>
+        <author>George Orwell</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4999000/4999480/1111800-170x243.jpg</image-url>
+        <rating>6</rating>
+    </book>
+    <book>
+        <title>Ocalić syna</title>
+        <link>https://lubimyczytac.pl/ksiazka/4959815/ocalic-syna</link>
+        <author>Lucinda Berry</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4959000/4959815/891623-170x243.jpg</image-url>
+        <rating>1</rating>
+    </book>
+    <book>
+        <title>W ciemnej dolinie. Rodzinna tragedia i tajemnica schizofrenii</title>
+        <link>https://lubimyczytac.pl/ksiazka/4977520/w-ciemnej-dolinie-rodzinna-tragedia-i-tajemnica-schizofrenii</link>
+        <author>Robert Kolker</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4977000/4977520/959838-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Only mostly devastated. Prawie w totalnej rozsypce</title>
+        <link>https://lubimyczytac.pl/ksiazka/5031176/only-mostly-devastated-prawie-w-totalnej-rozsypce</link>
+        <author>Sophie Gonzales</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5031000/5031176/1081126-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Historia wewnętrzna. Jelita – najbardziej fascynujący organ naszego ciała</title>
+        <link>https://lubimyczytac.pl/ksiazka/4940598/historia-wewnetrzna-jelita-najbardziej-fascynujacy-organ-naszego-ciala</link>
+        <author>Giulia Enders</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4940000/4940598/844597-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Paris. Autobiografia</title>
+        <link>https://lubimyczytac.pl/ksiazka/5085888/paris-autobiografia</link>
+        <author>Paris Hilton</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5085000/5085888/1098864-170x243.jpg</image-url>
+        <rating>5</rating>
+    </book>
+    <book>
+        <title>Opowiem ci o zbrodni t.3</title>
+        <link>https://lubimyczytac.pl/ksiazka/4940928/opowiem-ci-o-zbrodni-t-3</link>
+        <author>Katarzyna Bonda, Małgorzata Fugiel-Kuźmińska</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4940000/4940928/845299-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Za granicą</title>
+        <link>https://lubimyczytac.pl/ksiazka/5067195/za-granica</link>
+        <author>Wojciech Chmielarz</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5067000/5067195/1068113-170x243.jpg</image-url>
+        <rating>5</rating>
+    </book>
+    <book>
+        <title>Oni</title>
+        <link>https://lubimyczytac.pl/ksiazka/4857750/oni</link>
+        <author>Beniamin Tytus Muszyński</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4857000/4857750/680009-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Misery</title>
+        <link>https://lubimyczytac.pl/ksiazka/4552668/misery</link>
+        <author>Stephen King</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4552000/4552668/1027109-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Chwała</title>
+        <link>https://lubimyczytac.pl/ksiazka/4857751/chwala</link>
+        <author>Beniamin Tytus Muszyński</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4857000/4857751/680011-170x243.jpg</image-url>
+        <rating>3</rating>
+    </book>
+    <book>
+        <title>Kobieta, którą jestem</title>
+        <link>https://lubimyczytac.pl/ksiazka/5083855/kobieta-ktora-jestem</link>
+        <author>Britney Spears</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5083000/5083855/1095503-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Ballada ptaków i węży</title>
+        <link>https://lubimyczytac.pl/ksiazka/5087181/ballada-ptakow-i-wezy</link>
+        <author>Suzanne Collins</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5087000/5087181/1100901-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Szymek</title>
+        <link>https://lubimyczytac.pl/ksiazka/5081470/szymek</link>
+        <author>Piotr Kościelny</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5081000/5081470/1091481-170x243.jpg</image-url>
+        <rating>6</rating>
+    </book>
+    <book>
+        <title>Nie wierz we wszystko, co czujesz</title>
+        <link>https://lubimyczytac.pl/ksiazka/4974336/nie-wierz-we-wszystko-co-czujesz</link>
+        <author>Robert L. Leahy</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4974000/4974336/911668-170x243.jpg</image-url>
+        <rating>3</rating>
+    </book>
+    <book>
+        <title>Jestem</title>
+        <link>https://lubimyczytac.pl/ksiazka/4857748/jestem</link>
+        <author>Beniamin Tytus Muszyński</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4857000/4857748/680007-170x243.jpg</image-url>
+        <rating>5</rating>
+    </book>
+    <book>
+        <title>Wspomnienia. Sinéad O’Connor</title>
+        <link>https://lubimyczytac.pl/ksiazka/4976724/wspomnienia-sinead-o-connor</link>
+        <author>Sinéad O'Connor</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4976000/4976724/915951-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Dzień dobry, potworku. Historie z terapii, które inspirują do walki o samego siebie</title>
+        <link>https://lubimyczytac.pl/ksiazka/5023781/dzien-dobry-potworku-historie-z-terapii-ktore-inspiruja-do-walki-o-samego-siebie</link>
+        <author>Catherine Gildiner</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5023000/5023781/994504-170x243.jpg</image-url>
+        <rating>5</rating>
+    </book>
+    <book>
+        <title>Szczelina</title>
+        <link>https://lubimyczytac.pl/ksiazka/5074763/szczelina</link>
+        <author>Jozef Karika</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5074000/5074763/1080315-170x243.jpg</image-url>
+        <rating>4</rating>
+    </book>
+    <book>
+        <title>Milczące bliźniaczki</title>
+        <link>https://lubimyczytac.pl/ksiazka/5029313/milczace-blizniaczki</link>
+        <author>Marjorie Wallace</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5029000/5029313/1004087-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Zbrodnia obok Ciebie</title>
+        <link>https://lubimyczytac.pl/ksiazka/5043796/zbrodnia-obok-ciebie</link>
+        <author>Marcin Myszka</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5043000/5043796/1026477-170x243.jpg</image-url>
+        <rating>5</rating>
+    </book>
+    <book>
+        <title>Sigmund Freud w pigułce</title>
+        <link>https://lubimyczytac.pl/ksiazka/4988057/sigmund-freud-w-pigulce</link>
+        <author>Alan Porter</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4988000/4988057/934942-170x243.jpg</image-url>
+        <rating>6</rating>
+    </book>
+    <book>
+        <title>Schronisko</title>
+        <link>https://lubimyczytac.pl/ksiazka/4951273/schronisko</link>
+        <author>Sam Lloyd</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4951000/4951273/959747-170x243.jpg</image-url>
+        <rating>5</rating>
+    </book>
+    <book>
+        <title>Chyba strzelę focha!</title>
+        <link>https://lubimyczytac.pl/ksiazka/4884274/chyba-strzele-focha</link>
+        <author>Mikołaj Milcke</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4884000/4884274/730227-170x243.jpg</image-url>
+        <rating>6</rating>
+    </book>
+    <book>
+        <title>Tragedia na przełęczy Diatłowa. Historia bez końca</title>
+        <link>https://lubimyczytac.pl/ksiazka/4914319/tragedia-na-przeleczy-diatlowa-historia-bez-konca</link>
+        <author>Alice Lugen</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4914000/4914319/788387-170x243.jpg</image-url>
+        <rating>9</rating>
+    </book>
+    <book>
+        <title>Opowiem ci mroczną historię. Zbiór opowiadań grozy</title>
+        <link>https://lubimyczytac.pl/ksiazka/5024505/opowiem-ci-mroczna-historie-zbior-opowiadan-grozy</link>
+        <author>Stefan Darda</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5024000/5024505/995702-170x243.jpg</image-url>
+        <rating>6</rating>
+    </book>
+    <book>
+        <title>Małe życie</title>
+        <link>https://lubimyczytac.pl/ksiazka/4862789/male-zycie</link>
+        <author>Hanya Yanagihara</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4862000/4862789/927606-170x243.jpg</image-url>
+        <rating>3</rating>
+    </book>
+    <book>
+        <title>Egzorcysta</title>
+        <link>https://lubimyczytac.pl/ksiazka/4507307/egzorcysta</link>
+        <author>William Peter Blatty</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4507000/4507307/693694-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Berek</title>
+        <link>https://lubimyczytac.pl/ksiazka/95266/berek</link>
+        <author>Marcin Szczygielski</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/95000/95266/170x243.jpg</image-url>
+        <rating>3</rating>
+    </book>
+    <book>
+        <title>Na Zachodzie bez zmian</title>
+        <link>https://lubimyczytac.pl/ksiazka/5036477/na-zachodzie-bez-zmian</link>
+        <author>Erich Maria Remarque</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5036000/5036477/1015451-170x243.jpg</image-url>
+        <rating>6</rating>
+    </book>
+    <book>
+        <title>Mózg chce więcej. Dopamina. Naturalny dopalacz</title>
+        <link>https://lubimyczytac.pl/ksiazka/4882912/mozg-chce-wiecej-dopamina-naturalny-dopalacz</link>
+        <author>Daniel Z. Lieberman, Michael E. Long</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4882000/4882912/727594-170x243.jpg</image-url>
+        <rating>4</rating>
+    </book>
+    <book>
+        <title>Adwokat diabła</title>
+        <link>https://lubimyczytac.pl/ksiazka/4868718/adwokat-diabla</link>
+        <author>Andrew Neiderman</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4868000/4868718/737804-170x243.jpg</image-url>
+        <rating>9</rating>
+    </book>
+    <book>
+        <title>Urwane ślady</title>
+        <link>https://lubimyczytac.pl/ksiazka/4890412/urwane-slady</link>
+        <author>Janusz Szostak</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4890000/4890412/741266-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Dziecko Rosemary</title>
+        <link>https://lubimyczytac.pl/ksiazka/4953715/dziecko-rosemary</link>
+        <author>Ira Levin</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4953000/4953715/875773-170x243.jpg</image-url>
+        <rating>5</rating>
+    </book>
+    <book>
+        <title>Droga</title>
+        <link>https://lubimyczytac.pl/ksiazka/4884896/droga</link>
+        <author>Cormac McCarthy</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4884000/4884896/1078224-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Bogini. Tajemnice życia i śmierci Marilyn Monroe</title>
+        <link>https://lubimyczytac.pl/ksiazka/5016953/bogini-tajemnice-zycia-i-smierci-marilyn-monroe</link>
+        <author>Anthony Summers</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5016000/5016953/987786-170x243.jpg</image-url>
+        <rating>9</rating>
+    </book>
+    <book>
+        <title>Mężczyzna imieniem Ove</title>
+        <link>https://lubimyczytac.pl/ksiazka/5048333/mezczyzna-imieniem-ove</link>
+        <author>Fredrik Backman</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5048000/5048333/1063908-170x243.jpg</image-url>
+        <rating>9</rating>
+    </book>
+    <book>
+        <title>Chór zapomnianych głosów</title>
+        <link>https://lubimyczytac.pl/ksiazka/4906966/chor-zapomnianych-glosow</link>
+        <author>Remigiusz Mróz</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4906000/4906966/773597-170x243.jpg</image-url>
+        <rating>5</rating>
+    </book>
+    <book>
+        <title>Dobra rodzina</title>
+        <link>https://lubimyczytac.pl/ksiazka/5033316/dobra-rodzina</link>
+        <author>Katarzyna Troszczyńska</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5033000/5033316/1036322-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Koniec świata, umyj okna</title>
+        <link>https://lubimyczytac.pl/ksiazka/4934857/koniec-swiata-umyj-okna</link>
+        <author>Agnieszka Jelonek</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4934000/4934857/832590-170x243.jpg</image-url>
+        <rating>2</rating>
+    </book>
+    <book>
+        <title>Żona mordercy</title>
+        <link>https://lubimyczytac.pl/ksiazka/4984854/zona-mordercy</link>
+        <author>Victor Methos</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4984000/4984854/930996-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Być parą i nie zwariować</title>
+        <link>https://lubimyczytac.pl/ksiazka/4904715/byc-para-i-nie-zwariowac</link>
+        <author>Katarzyna Miller, Andrzej Gryżewski</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4904000/4904715/768553-170x243.jpg</image-url>
+        <rating>5</rating>
+    </book>
+    <book>
+        <title>Niania</title>
+        <link>https://lubimyczytac.pl/ksiazka/4949500/niania</link>
+        <author>Gilly Macmillan</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4949000/4949500/877860-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Złota rybka w szambie. Jak pokonać uzależnienie od smartfona i internetu</title>
+        <link>https://lubimyczytac.pl/ksiazka/4916112/zlota-rybka-w-szambie-jak-pokonac-uzaleznienie-od-smartfona-i-internetu</link>
+        <author>Krzysztof Piersa</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4916000/4916112/792551-170x243.jpg</image-url>
+        <rating>4</rating>
+    </book>
+    <book>
+        <title>Uśpiona</title>
+        <link>https://lubimyczytac.pl/ksiazka/5019094/uspiona</link>
+        <author>Alicja Sinicka</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5019000/5019094/987402-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Uratuj mnie. Opowieść o złym życiu i dobrym psychoterapeucie</title>
+        <link>https://lubimyczytac.pl/ksiazka/56540/uratuj-mnie-opowiesc-o-zlym-zyciu-i-dobrym-psychoterapeucie</link>
+        <author>Rachel Reiland</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/56000/56540/580430-170x243.jpg</image-url>
+        <rating>9</rating>
+    </book>
+    <book>
+        <title>Miasteczko zbrodni. Dlaczego zginęła Iwona Cygan</title>
+        <link>https://lubimyczytac.pl/ksiazka/4884627/miasteczko-zbrodni-dlaczego-zginela-iwona-cygan</link>
+        <author>Monika Góra</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4884000/4884627/734302-170x243.jpg</image-url>
+        <rating>9</rating>
+    </book>
+    <book>
+        <title>Wszystko da się naprawić</title>
+        <link>https://lubimyczytac.pl/ksiazka/269573/wszystko-da-sie-naprawic</link>
+        <author>Zbigniew Lew-Starowicz</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/269000/269573/422277-170x243.jpg</image-url>
+        <rating>7,1</rating>
+    </book>
+    <book>
+        <title>Dom na Wyrębach</title>
+        <link>https://lubimyczytac.pl/ksiazka/29132/dom-na-wyrebach</link>
+        <author>Stefan Darda</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/29000/29132/133386-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Kto zabił Iwonę Wieczorek</title>
+        <link>https://lubimyczytac.pl/ksiazka/4984506/kto-zabil-iwone-wieczorek</link>
+        <author>Janusz Szostak</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4984000/4984506/929232-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Opowiem ci o zbrodni: Portret kobiety nad brzegiem morza</title>
+        <link>https://lubimyczytac.pl/ksiazka/4898931/opowiem-ci-o-zbrodni-portret-kobiety-nad-brzegiem-morza</link>
+        <author>Małgorzata Fugiel-Kuźmińska, Michał Kuźmiński</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4898000/4898931/762811-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Nieznajomy</title>
+        <link>https://lubimyczytac.pl/ksiazka/4912594/nieznajomy</link>
+        <author>Harlan Coben</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4912000/4912594/795145-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Dywan z wkładką</title>
+        <link>https://lubimyczytac.pl/ksiazka/4944737/dywan-z-wkladka</link>
+        <author>Marta Kisiel</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4944000/4944737/856559-170x243.jpg</image-url>
+        <rating>3</rating>
+    </book>
+    <book>
+        <title>Czując. Rozmowy o emocjach</title>
+        <link>https://lubimyczytac.pl/ksiazka/4880521/czujac-rozmowy-o-emocjach</link>
+        <author>Agnieszka Jucewicz</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4880000/4880521/723131-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Opowiem ci o zbrodni: Łaska</title>
+        <link>https://lubimyczytac.pl/ksiazka/4862263/opowiem-ci-o-zbrodni-laska</link>
+        <author>Katarzyna Bonda, Małgorzata Fugiel-Kuźmińska</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4862000/4862263/689617-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Bestia. Studium zła</title>
+        <link>https://lubimyczytac.pl/ksiazka/299694/bestia-studium-zla</link>
+        <author>Magda Omilianowicz</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/299000/299694/473695-170x243.jpg</image-url>
+        <rating>9</rating>
+    </book>
+    <book>
+        <title>Szklany klosz</title>
+        <link>https://lubimyczytac.pl/ksiazka/5042443/szklany-klosz</link>
+        <author>Sylvia Plath</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/5042000/5042443/1024412-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Cymanowski Młyn</title>
+        <link>https://lubimyczytac.pl/ksiazka/4875441/cymanowski-mlyn</link>
+        <author>Stefan Darda, Magdalena Witkiewicz</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4875000/4875441/713827-170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+    <book>
+        <title>Żmijowisko</title>
+        <link>https://lubimyczytac.pl/ksiazka/4900323/zmijowisko</link>
+        <author>Wojciech Chmielarz</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4900000/4900323/771935-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Simon oraz inni homo sapiens</title>
+        <link>https://lubimyczytac.pl/ksiazka/4954397/simon-oraz-inni-homo-sapiens</link>
+        <author>Becky Albertalli</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/4954000/4954397/1117697-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Joyland</title>
+        <link>https://lubimyczytac.pl/ksiazka/176275/joyland</link>
+        <author>Stephen King</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/176000/176275/298556-170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Mężczyźni, którzy nienawidzą kobiet</title>
+        <link>https://lubimyczytac.pl/ksiazka/27644/mezczyzni-ktorzy-nienawidza-kobiet</link>
+        <author>Stieg Larsson</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/27000/27644/170x243.jpg</image-url>
+        <rating>10</rating>
+    </book>
+    <book>
+        <title>Zamek z piasku, który runął</title>
+        <link>https://lubimyczytac.pl/ksiazka/34620/zamek-z-piasku-ktory-runal</link>
+        <author>Stieg Larsson</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/34000/34620/170x243.jpg</image-url>
+        <rating>8</rating>
+    </book>
+    <book>
+        <title>Dziewczyna, która igrała z ogniem</title>
+        <link>https://lubimyczytac.pl/ksiazka/30588/dziewczyna-ktora-igrala-z-ogniem</link>
+        <author>Stieg Larsson</author>
+        <image-url>https://s.lubimyczytac.pl/upload/books/30000/30588/170x243.jpg</image-url>
+        <rating>7</rating>
+    </book>
+</bookshelf>
