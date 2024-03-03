@@ -5,34 +5,24 @@
   <xsl:template match="/">
     <html>
       <head>
-        <link rel="stylesheet" href="stylesheet.css"/>
-        </head>
+        <link rel="stylesheet" href="stylesheet.css" />
+      </head>
       <body>
-        <h1 class="h1">My bookshelf</h1>
-        <table class="table">
-          <tr>
-            <th>Title</th>
-            <th>Author</th>
-            <th>rating</th>
-            <th>image</th>
+        <h1 class="h1">MY BOOKSHELF</h1>
+        <table class="table border">
+          <tr class="header">
+            <th class="border">COVER</th>
+            <th class="border">TITLE</th>
+            <th class="border">AUTHOR</th>
+            <th class="border">RATING</th>
           </tr>
           <xsl:for-each select="bookshelf/book">
             <tr>
-              <td>
-                <xsl:element name="a">
-                  <xsl:attribute name="href">
-                    <xsl:value-of select="link" />
-                  </xsl:attribute>
-                  <xsl:value-of select="title" />
-                </xsl:element>
-              </td>
-              <td>
-                <xsl:value-of select="author" />
-              </td>
-              <td>
-                <xsl:value-of select="rating" />/10 </td>
-              <td>
+              <td class="border">
                 <xsl:element name="img">
+                  <xsl:attribute name="class">
+                    bookcover
+                  </xsl:attribute>
                   <xsl:attribute name="alt">
                     Book cover
                   </xsl:attribute>
@@ -41,6 +31,21 @@
                   </xsl:attribute>
                 </xsl:element>
               </td>
+              <td class="border">
+                <xsl:element name="a">
+                  <xsl:attribute name="target">_blank</xsl:attribute>
+                  <xsl:attribute name="class">link</xsl:attribute>
+                  <xsl:attribute name="href">
+                    <xsl:value-of select="link" />
+                  </xsl:attribute>
+                  <xsl:value-of select="title" />
+                </xsl:element>
+              </td>
+              <td class="border">
+                <xsl:value-of select="author" />
+              </td>
+              <td class="border">
+                <xsl:value-of select="rating" />/10 </td>
             </tr>
           </xsl:for-each>
         </table>

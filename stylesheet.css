@@ -1,25 +1,65 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Kode+Mono:wght@400..700&family=Lora:ital,wght@0,400..700;1,400..700&family=Sixtyfour:SCAN@-15&family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Sixtyfour:SCAN@-12&display=swap');
+
+* {
+    font-family: "Lora", serif;
+}
+
+body {
+    background-color: #3b2606;
+}
+
+.border {
+    border: 2px solid rgba(255, 187, 0, 0.767);
+}
+
+.h1 {
+    text-align: center;
+    color: rgb(189, 133, 12);
+    font-family: "Sixtyfour", sans-serif;
+    font-variation-settings:
+        "BLED" 0,
+        "SCAN" -15;
+    font-weight: 500;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.header {
+    background-color: rgb(202, 151, 41);
+}
+
+.header th {
+    padding: 0.5rem;
+    color: rgb(133 44 44);
+    font-size: 1.25rem;
+    font-weight: 600;
+}
 
 .table {
-    border: 1px solid black;
     border-spacing: 0;
     border-collapse: collapse;
     margin: 0 auto;
 }
 
 .table td {
-    border: 1px solid black;
+    text-align: center;
+    background-color: rgba(224, 217, 151, 0.705);
+    color: #39220a;
+    font-size: 1.15rem;
+    padding: 0.25rem;
 }
 
-.h1 {
-    text-align: center;
-    color: rgb(173, 206, 201);
-    font-family: "Sixtyfour", sans-serif;
-    font-variation-settings:
-    "BLED" 0,
-    "SCAN" -15;
-    font-weight: 500;
-    font-size: 4rem;
-    margin-bottom: 1rem;
-    margin-top: 1rem;
+.table td,
+.table th {
+    max-width: 27rem;
+}
+
+.bookcover {
+    width: 6rem;
+
+}
+
+.link {
+    color: #364dc3;
 }
