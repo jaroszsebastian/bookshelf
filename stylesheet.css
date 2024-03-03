@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Kode+Mono:wght@400..700&family=Lora:ital,wght@0,400..700;1,400..700&family=Sixtyfour:SCAN@-15&family=Space+Grotesk:wght@300..700&display=swap');
+
+.table {
+    border: 1px solid black;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.table td {
+    border: 1px solid black;
+}
+
+.h1 {
+    text-align: center;
+    color: rgb(173, 206, 201);
+    font-family: "Sixtyfour", sans-serif;
+    font-variation-settings:
+    "BLED" 0,
+    "SCAN" -15;
+    font-weight: 500;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}

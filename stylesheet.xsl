@@ -4,10 +4,13 @@
 
   <xsl:template match="/">
     <html>
+      <head>
+        <link rel="stylesheet" href="stylesheet.css"/>
+        </head>
       <body>
-        <h2>My bookshelf</h2>
-        <table border="1">
-          <tr bgcolor="#9acd32">
+        <h1 class="h1">My bookshelf</h1>
+        <table class="table">
+          <tr>
             <th>Title</th>
             <th>Author</th>
             <th>rating</th>
