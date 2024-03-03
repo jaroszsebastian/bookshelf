@@ -1,15 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Sixtyfour:SCAN@-12&display=swap');
+
 iframe {
     width: 100vw;
     height: 100vh;
-    font-family: 'Courier New', Courier, monospace;
     border: 0;
     position: fixed;
 }
 
 body {
     margin: 0;
+    background-color: #3b2606;
 }
 
-div {
-    columns: 100px 3;
+.h1 {
+    text-align: center;
+    color: rgb(189, 133, 12);
+    font-family: "Sixtyfour", sans-serif;
+    font-variation-settings:
+        "BLED" 0,
+        "SCAN" -15;
+    font-weight: 500;
+    font-size: 250%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
 }

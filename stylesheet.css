@@ -2,27 +2,15 @@
 
 * {
     font-family: "Lora", serif;
+    box-sizing: border-box;
 }
 
 body {
-    background-color: #3b2606;
+    margin: 0;
 }
 
 .border {
     border: 2px solid rgba(255, 187, 0, 0.767);
-}
-
-.h1 {
-    text-align: center;
-    color: rgb(189, 133, 12);
-    font-family: "Sixtyfour", sans-serif;
-    font-variation-settings:
-        "BLED" 0,
-        "SCAN" -15;
-    font-weight: 500;
-    font-size: 4rem;
-    margin-bottom: 1rem;
-    margin-top: 1rem;
 }
 
 .header {

@@ -8,13 +8,12 @@
         <link rel="stylesheet" href="stylesheet.css" />
       </head>
       <body>
-        <h1 class="h1">MY BOOKSHELF</h1>
         <table class="table border">
           <tr class="header">
             <th class="border">COVER</th>
             <th class="border">TITLE</th>
             <th class="border">AUTHOR</th>
-            <th class="border">RATING</th>
+            <th class="border">RATE</th>
           </tr>
           <xsl:for-each select="bookshelf/book">
             <tr>
